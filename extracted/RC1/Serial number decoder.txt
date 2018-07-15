@@ -1,0 +1,14 @@
+decoder:
+AA_BBBBB_CC_DD_EEE.dxf
+AA - product
+BBBBB - Material
+CC - color
+DD - unique panel number
+EEE - release version
+
+RP_WD6P4_BK_01_RC1
+Resin Printer
+Wood, 6.4mm
+Black
+01
+Release Candidate 1
